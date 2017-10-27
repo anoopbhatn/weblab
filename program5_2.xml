@@ -3,27 +3,19 @@
 <?xml-stylesheet type="text/xsl" href="program5_3.xsl"?>
 <studentdetails>
     <students>
-        <USN>4JC14CS002</USN>
-        <Name>Adarsh Lokesh</Name>
+        <USN>4JC14CS130</USN>
+        <Name>Anoop Bhat N</Name>
         <College>SJCE, Mysuru</College>
         <Branch>Computer Science</Branch>
         <Joining>2014</Joining>
-        <Email>adarshroaring@gmail.com</Email>
+        <Email>anoopbhatn@gmail.com</Email>
     </students>
     <students>
-        <USN>4JC14CS082</USN>
-        <Name>Sangamesh Vastrad</Name>
+        <USN>4JC14CS125</USN>
+        <Name>Vikhyath Shetty</Name>
         <College>SJCE, Mysuru</College>
         <Branch>Computer Science</Branch>
         <Joining>2014</Joining>
-        <Email>sangamesh.vastrad@gmail.com</Email>
-    </students>
-    <students>
-        <USN>4JC14CS102</USN>
-        <Name>Sriharsha S</Name>
-        <College>SJCE, Mysuru</College>
-        <Branch>Computer Science</Branch>
-        <Joining>2014</Joining>
-        <Email>sriharsha.s32@gmail.com</Email>
+        <Email>vushetty@gmail.com</Email>
     </students>
 </studentdetails>
